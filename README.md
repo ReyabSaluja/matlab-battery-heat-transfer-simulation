@@ -62,3 +62,8 @@ where:
 1. **Run the Simulation**: Execute the script to start the temperature simulation in MATLAB.
    ```matlab
    battery
+
+## Final Result
+
+![Battery_Performance](https://github.com/user-attachments/assets/c25a150b-f591-4901-b27b-61dfb1ac80f5)
+
