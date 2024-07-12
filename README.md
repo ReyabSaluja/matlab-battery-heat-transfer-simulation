@@ -61,7 +61,7 @@ where:
    ```matlab
    battery
 
-## Final Result
+## Final Results
 
 ![Battery_Performance](https://github.com/user-attachments/assets/c25a150b-f591-4901-b27b-61dfb1ac80f5)
 
